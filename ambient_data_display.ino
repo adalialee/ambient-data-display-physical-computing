@@ -42,15 +42,14 @@ void loop() {
         Servo3.write(175);
     }
     if (digitalRead(12) == LOW) {
-        Servo1.write(55);  // Move servo to 175 degrees
-        Servo2.write(55);
-        Servo3.write(55);
+        Servo1.write(90);  // Move servo to 175 degrees
+        Servo2.write(90);
+        Servo3.write(90);
     }
     if (digitalRead(2) == LOW) {
-        Servo1.write(110);  // Move servo to 175 degrees
-        Servo2.write(110);
-        Servo3.write(110);
+        Servo1.write(5);  // Move servo to 175 degrees
+        Servo2.write(5);
+        Servo3.write(5);
     }
-    delay(200);
     Serial.println("servoPosition " + String(servoPosition));
 }

@@ -18,3 +18,7 @@ This is the article we found our data chart (first image) from: https://www.fron
 
 ![sound   plant data chart](https://github.com/user-attachments/assets/29f690c8-c007-4ce1-afa9-5a91d63b6324)
 ![generated associations](https://github.com/user-attachments/assets/6a477efc-90e6-4fbc-af80-ca33ecb9d290)
+
+Here is our Frizing circuit diagram:
+![circuit diagram (ambient data display project)](https://github.com/user-attachments/assets/3f4cbe92-0c26-40a4-a964-4b61ac4f8cde)
+

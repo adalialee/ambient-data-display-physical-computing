@@ -12,7 +12,11 @@ By pressing arcade buttons corresponding to different frequency ranges — low: 
 
 This project invites audiences to reconsider the less noticeable connections between sound and nature, emphasizing the delicate, yet powerful ways in which environmental factors shape life. Sonic Bloom is both an artistic representation and an interactive learning tool, encouraging curiosity about the intricate ways living organisms respond to their surroundings.
 
-This is the article we found our data chart (first image) from: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.00025/full
+These are thes article we found our data chart (first image) from: 
+
+https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.00025/full
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5797535/
 
 (With permission, we used ChatGPT to generate more similar data to add to this small dataset, then help us recognize and analyze associations between specific frequency ranges in Hz and plant growth factors, as seen in the following image.)
 

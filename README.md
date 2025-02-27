@@ -12,6 +12,9 @@ By pressing arcade buttons corresponding to different frequency ranges — low: 
 
 This project invites audiences to reconsider the less noticeable connections between sound and nature, emphasizing the delicate, yet powerful ways in which environmental factors shape life. Sonic Bloom is both an artistic representation and an interactive learning tool, encouraging curiosity about the intricate ways living organisms respond to their surroundings.
 
+YouTube video:
+https://youtu.be/hxNnL9dSoa8?feature=shared
+
 These are thes article we found our data chart (first image) from: 
 
 https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.00025/full
